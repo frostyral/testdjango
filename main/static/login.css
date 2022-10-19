@@ -1,0 +1,13 @@
+.section-login {
+  background-image: url('https://wallpaperaccess.com/full/680234.png');
+  height: 1000px;
+  width: 100%;
+}
+
+.section-login .login-form h1 {
+  color: blue;
+}
+
+h1 {
+  color: blue;
+}
